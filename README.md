@@ -1,0 +1,2 @@
+# economia-comportamental-ecommerce-nudges-notebooklm
+Caderno temático no NotebookLM explorando IA como ferramenta de aprendizagem ativa. Foco em Economia Comportamental aplicada ao E-commerce, com nudges para aumentar conversão e fidelidade. NotebookLM thematic notebook exploring AI for active learning. Focus on Behavioral Economics applied to E-commerce, with nudges to boost conversion and loyalty.
